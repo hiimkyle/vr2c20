@@ -1,0 +1,7 @@
+1) drop iracing_telemetry folder onto C:\ drive.
+2) press windows+R
+3) in the run bar, type "shell:startup" and press ok.
+4) in the new folder popping up (e.g.: C:\Users\kyleprins\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup), drop the "collect_iracing - Shortcut" into the startup folder.
+5) restart the computer.
+6) upon restart the script will start in the background
+7) to troubleshoot. ensure you have restarted the computer and start iracing. You should see the log files in the app folder and the data folder start to populate.
