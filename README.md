@@ -8,7 +8,7 @@
 3) once the pyyaml installs, install the python irsdk
    ```pip3 install pyirsdk```
 
-4) Download the folder titled "YOUR_NAME_iracing_telemetry" from this github repo by clicking clicking on the corresponding .zip file above. After the .zip file has downloaded, unzip it and follow the next step.
+4) Download the folder titled "YOUR_NAME_iracing_telemetry" from this github repo by clicking clicking on the corresponding .zip file above. You will be directed to a new screen. From there, push the download button in the lower right corner of the screen. After the .zip file has downloaded, unzip it and follow the next step.
 
 5) From your Windows Desktop, open the command prompt by pressing "Windows+R". A run box should open up. Type ```"C:\"``` in the box and press "ok". A new window will pop up.
 
