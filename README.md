@@ -1,6 +1,6 @@
 # vr2c20
 
-Notes) We're assuming you have python installed. If you do not, install it via the python website. Here's a link for the 64 bit python download. https://www.python.org/ftp/python/3.8.4/python-3.8.4-amd64.exe
+Notes) We're assuming you have python installed. If you do not, install it via the python website. Here's a link for the 64 bit python download. https://www.python.org/ftp/python/3.8.4/python-3.8.4-amd64.exe (please make sure you do a custom install, and install for all users in the install and also select "add python to PATH"
 
 1) From your Windows Desktop, open the command prompt by pressing "Windows+R". A run box should open up. Type "cmd" in the box and press "ok". A new window will pop up.
 
